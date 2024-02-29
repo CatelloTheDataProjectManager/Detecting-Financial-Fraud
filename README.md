@@ -2,6 +2,8 @@
 
 Utilizing Pandas and Cypher expertise, I've successfully applied these skills to model the graph in real-life scenarios. Entities and relationships central to the fraud detection process are accurately represented as nodes and relationships within the Neo4j graph.
 
+In this context, I will undertake an exploration of the transaction workflow, highlighting the nuanced technical skills required to seamlessly create a graph database.
+
 ## Transaction Workflow 🏦
 
 ### Project Overview
