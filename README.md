@@ -1,4 +1,4 @@
-# Detecting Financial Fraud 🏦
+# Transaction Workflow 🏦
 
 ### Project Overview
 Welcome to my GitHub page, presenting a project focused on developing a robust Transactions Database. This comprehensive endeavor covers Database Connection, MySQL Database Creation, and Neo4j Graph Database Integration.
