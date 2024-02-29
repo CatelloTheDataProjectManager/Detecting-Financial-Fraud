@@ -1,3 +1,7 @@
+# Detecting Financial Fraud with Pandas and Cypher 🚨🔍
+
+This comprehensive effort encompasses Database Connection, MySQL Database Creation, and Neo4j Graph Database Integration. Thanks to this, in real-life scenarios, I was able to model the graph: Entities and relationships involved in the fraud detection process are represented as nodes and relationships in the Neo4j graph.
+
 # Transaction Workflow 🏦
 
 ### Project Overview
