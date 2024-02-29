@@ -21,6 +21,7 @@ Welcome to my GitHub page, presenting a project focused on developing a robust F
 ### Project Notebooks and Resources
 - Notebook: [Database Connection and MySQL Operations](https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/blob/main/MySQL%20Database%20Creation.ipynb)
 - Notebook: [Database Creation and Neo4j Operations](https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/blob/main/Neo4j%20Database%20Creation.ipynb)
-- Graph Workflow: [Neo4j Relationship Operations](https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/blob/main/graph.imp.pdf)
 
 Explore the code and documentation for insights into the project's intricacies. Your feedback and contributions are highly valued! 🚀
+
+<img src="https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/raw/main/graph_image.jpg" alt="Financial Fraud Detection Graph" width="300">
