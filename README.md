@@ -19,7 +19,8 @@ Welcome to my GitHub page, presenting a project focused on developing a robust F
 - **Transaction Type Labeling**: Identification of unique transaction types and assignment of labels.
 
 ### Project Notebooks and Resources
-- Notebook: [Database Connection and MySQL Operations](link_to_notebook_mysql)
-- Notebook: [Database Creation and Neo4j Operations](link_to_notebook_neo4j)
+- Notebook: [Database Connection and MySQL Operations](https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/blob/main/MySQL%20Database%20Creation.ipynb)
+- Notebook: [Database Creation and Neo4j Operations](https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/blob/main/Neo4j%20Database%20Creation.ipynb)
+- Graph Workflow: [Neo4j Relationship Operations](https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/blob/main/graph.imp.pdf)
 
 Explore the code and documentation for insights into the project's intricacies. Your feedback and contributions are highly valued! 🚀
