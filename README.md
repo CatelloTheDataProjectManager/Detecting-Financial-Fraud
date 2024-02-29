@@ -1,7 +1,7 @@
 # Detecting Financial Fraud 🏦
 
 ### Project Overview
-Welcome to my GitHub page, presenting a project focused on developing a robust Financial Transactions Database. This comprehensive endeavor covers Database Connection, MySQL Database Creation, and Neo4j Graph Database Integration.
+Welcome to my GitHub page, presenting a project focused on developing a robust Transactions Database. This comprehensive endeavor covers Database Connection, MySQL Database Creation, and Neo4j Graph Database Integration.
 
 ### MySQL Database Creation
 - **Initialization**: Creating database, defining table for financial data.
