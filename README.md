@@ -2,7 +2,7 @@
 
 Utilizing Pandas and Cypher expertise, I've successfully applied these skills to model the graph in real-life scenarios. Entities and relationships central to the fraud detection process are accurately represented as nodes and relationships within the Neo4j graph.
 
-# Transaction Workflow 🏦
+## Transaction Workflow 🏦
 
 ### Project Overview
 Welcome to my GitHub page, presenting a project focused on developing a Transactions Database. This comprehensive endeavor covers Database Connection, MySQL Database Creation, and Neo4j Graph Database Integration. 
