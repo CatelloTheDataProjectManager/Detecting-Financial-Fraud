@@ -1,2 +1,25 @@
-# Detecting-Financial-Fraud
-Detecting Financial Fraud with Pandas and Cypher 🚨🔍
+# Detecting Financial Fraud 🏦
+
+### Project Overview
+Welcome to my GitHub page, presenting a project focused on developing a robust Financial Transactions Database. This comprehensive endeavor covers Database Connection, MySQL Database Creation, and Neo4j Graph Database Integration.
+
+### MySQL Database Creation
+- **Initialization**: Creating database, defining table for financial data.
+
+### Neo4j Database Integration
+- **Neo4j Graph Database Connection**: Integration of Neo4j for exploring graph database capabilities.
+
+### Project Components
+#### Database Connection and MySQL Operations
+- **MySQL Operations**: Connection and execution of SQL queries.
+- **Table Creation and Data Insertion**: Creation of tables and insertion of simulated financial transactions.
+
+#### Database Connection and Neo4j Operations
+- **Neo4j Operations**: Connection and execution of queries to create nodes representing financial transactions.
+- **Transaction Type Labeling**: Identification of unique transaction types and assignment of labels.
+
+### Project Notebooks and Resources
+- Notebook: [Database Connection and MySQL Operations](link_to_notebook_mysql)
+- Notebook: [Database Creation and Neo4j Operations](link_to_notebook_neo4j)
+
+Explore the code and documentation for insights into the project's intricacies. Your feedback and contributions are highly valued! 🚀
