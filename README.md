@@ -30,4 +30,8 @@ Welcome to my GitHub page, presenting a project focused on developing a Transact
 
 Explore the code and documentation for insights into the project's intricacies. Your feedback and contributions are highly valued! 🚀
 
-<img src="https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/raw/main/graph_image.jpg" alt="Financial Fraud Detection Graph" width="300">
+<div style="display:flex;">
+  <img src="https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/blob/main/Database_information.png" alt="Database_information" width="300">
+  <img src="https://github.com/CatelloTheDataProjectManager/Detecting-Financial-Fraud/blob/main/graph_image.jpg" alt="Financial Fraud Detection Graph" width="300">
+</div>
+
